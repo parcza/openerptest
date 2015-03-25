@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_set_transaction" value="name:id;datatype:int,name:membercard_no;datatype:int,name:bill_ref;datatype:string,name:bill_amount;datatype:real,name:pv;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:membercard_no;datatype:int,name:HN;datatype:string,name:title;datatype:string,name:name;datatype:string,name:surname;datatype:string,name:idcardno;datatype:string,name:phone;datatype:string,name:address;datatype:string,name:province;datatype:string,name:country;datatype:string,name:zipcode;datatype:int,name:birthday;datatype:date,name:email;datatype:string,name:class;datatype:int,name:career;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:id;datatype:int,name:membercard_no;datatype:int,name:bill_ref;datatype:string,name:bill_amount;datatype:real,name:pv;datatype:real" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_set_contact" value="name:membercard_no;datatype:int,name:HN;datatype:string,name:title;datatype:string,name:name;datatype:string,name:surname;datatype:string,name:idcardno;datatype:string,name:phone;datatype:string,name:address;datatype:string,name:province;datatype:string,name:country;datatype:string,name:zipcode;datatype:int,name:birthday;datatype:date,name:email;datatype:string,name:class;datatype:int,name:career;datatype:string" />
+	<infoitem key="UD_set_branch" value="name:branch_id;datatype:int,name:branch_major;datatype:string,name:branch_company;datatype:string" />
+	<infoitem key="UD_set_chanel" value="name:chanel_id;datatype:int,name:chanel_name;datatype:string" />
+	<infoitem key="UD_set_emp" value="name:emp_id;datatype:int,name:emp_title;datatype:string,name:emp_name;datatype:string,name:emp_surname;datatype:string" />
+	<infoitem key="UD_set_register" value="name:register_id;datatype:int,name:register_empid;datatype:int,name:regiser_chanelid;datatype:int,name:register_branchid;datatype:int,name:register_membercardno;datatype:int" />
+</info>
